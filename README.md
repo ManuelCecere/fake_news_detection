@@ -1,7 +1,5 @@
 # fake_news_detection
 
-## Aim
-
 In this notebook our aim is to use RNN and Attention layers, to approach the task of fake news detection. For the task we used the PHEME dataset.
 
 The dataset can be downloaded here: https://figshare.com/articles/dataset/PHEME_dataset_for_Rumour_Detection_and_Veracity_Classification/6392078
