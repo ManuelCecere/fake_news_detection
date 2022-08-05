@@ -14,3 +14,5 @@ The data is structured as follows. Each event has a directory, with two subfolde
 *Notice that for our task, fake news detection, we used only the source tweets classified as rumours in the dataset.*
 
 In this repo you'll find the notebooks made for the project, but they are also accessible on Kaggle: https://www.kaggle.com/code/manuelcecerepalazzo/fake-news-detection
+
+This work was realized for the course [Multidisciplinary Project] (https://polimdp.wordpress.com/) offered by Politecnico di Milano.
